@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">random_animals</string>
+    <string name="btn_cat">Показать котика</string>
+    <string name="btn_duck">Показать утку</string>
+</resources>
